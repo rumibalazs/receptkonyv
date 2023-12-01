@@ -1,0 +1,2 @@
+recept neve;hozzávalók;elkészítés
+recept neve; 1 hozzávalók: 2 hozzávalók: ;elkészítés   elkészítés
